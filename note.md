@@ -70,3 +70,11 @@ git checkout [branch_name]
 
 buoc 2: re nhanh moi tu nhanh dang dung
 git checkout -b [branch_name]
+
+## Tao pull request (merge request)
+
+
+## Xoa 1 nhanh tren local (phai dung tren 1 nhanh khac de xoa)
+git branch -d [branch_name]
+git branch -D [branch_name]
+
